@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile View](https://komarev.com/ghpvc/?username=ikwnhanif&color=blue) <br>
 [![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikwnhanif&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ikwnhanif&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
