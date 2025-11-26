@@ -46,8 +46,8 @@ Software Developer | Web Enthusiast | Mobile & Backend Learner
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: **ikhwanhanif46@gmail.com**
-- 💼 LinkedIn: _coming soon_
+- 📧 Email: **hikwan012@gmail.com**
+- 💼 LinkedIn: ikwnhanif
 - 🌍 Portfolio: _on progress_
 
 ---
